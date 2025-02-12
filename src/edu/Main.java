@@ -4,13 +4,14 @@ public class Main {
     public static void main(String[]args) {
 
         //obj 1
-        Ninja naruto = new Ninja();
+        Uzumaki naruto = new Uzumaki();
         naruto.nome = "Naruto Uzumaki";
+        naruto.temBijuu = true;
 
 
         //obj 2
-        Ninja sasuke = new Ninja();
-        sasuke.nome = "Sasuke uchiha";
+        Uchiha sasuke = new Uchiha();
+        sasuke.nome = "Sasuke Uchiha";
         sasuke.sharinganAtivado();
 
     }

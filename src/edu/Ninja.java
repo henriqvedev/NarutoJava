@@ -5,8 +5,6 @@ public class Ninja {
     String aldeia;
     int idade;
 
-    public void sharinganAtivado(){
-        System.out.println("Sharigan Ativado!");
-    }
+
 
 }
