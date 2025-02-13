@@ -5,6 +5,10 @@ public class Ninja {
     String aldeia;
     int idade;
 
+    public void ataqueKunai(){
+        System.out.println("Kunai lançada!");
+    }
+
+    }
 
 
-}
